@@ -1,3 +1,6 @@
+<div align="center">
+<img align="center" width="100%" alt="analisis" src="https://github.com/vanevrb/repo/blob/main/images/banner.gif">
+</div>
 # Bienvenido
 
 Te damos la bienvenida al Wikiportal canino, pensado para ser la página principal de aquellas personas interesadas y amantes de los perros y todo lo relacionado con estos animales.
