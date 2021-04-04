@@ -1,6 +1,11 @@
 <div align="center">
 <img align="center" width="100%" alt="analisis" src="https://github.com/vanevrb/repo/blob/main/images/banner.gif">
 </div>
+
+<div align="center">
+<img align="center" width="100%" alt="analisis" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
+</div>
+
 # Bienvenido
 
 Te damos la bienvenida al Wikiportal canino, pensado para ser la página principal de aquellas personas interesadas y amantes de los perros y todo lo relacionado con estos animales.
