@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img align="center" width="100%" alt="analisis" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
+<img align="center" width="100%" alt="analisis" src="https://github.com/vanevrb/repo/blob/main/images/unnamed%20(2).png">
 </div>
 
 # Bienvenido
