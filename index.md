@@ -27,3 +27,11 @@ Te damos la bienvenida al Wikiportal canino, pensado para ser la página princip
 
 #Php link [Php link](https://www.php.net/manual/es/indexes.functions.php "Php link")
 
+
+## Tables Md
+
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
